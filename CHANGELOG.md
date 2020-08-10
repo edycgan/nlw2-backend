@@ -1,3 +1,7 @@
+## v1.8
+
+- Alteração do banco de dados do SQLite para o PostgreSQL.
+
 ## v1.2
 
 - Ajustes para hospedar no heroku.
